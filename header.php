@@ -24,6 +24,13 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-5497417360208155",
+        enable_page_level_ads: true
+      });
+    </script>
 </head>
 <body class="active-preloader-ovh">
 
