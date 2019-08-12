@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8610317915899195",
+          enable_page_level_ads: true
+     });
+</script>
     <meta charset="UTF-8" />
     <title>Ultron - A Global ERC20 Token</title>
     <!-- mobile responsive meta -->
